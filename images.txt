@@ -2,3 +2,4 @@ gplane/pnpm:9.1.2-node18-alpine
 nginx:alpine
 seven45/pdm-ci:3.11-alpine
 mizhexiaoxiao/vue-fastapi-admin:latest
+frooodle/s-pdf:latest
